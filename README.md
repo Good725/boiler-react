@@ -1,17 +1,9 @@
 # React Universal Boiler
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Build Status](https://travis-ci.org/strues/react-universal-boiler.svg?branch=master)](https://travis-ci.org/strues/react-universal-boiler) [![codecov](https://codecov.io/gh/strues/react-universal-boiler/branch/master/graph/badge.svg)](https://codecov.io/gh/strues/react-universal-boiler)
-
 
 
 ## Features
 - React 16
 - A pleasant 😍 developer experience with 🔥 fast bundling, so you can get shit done. This starter takes advantage of tools like, [HappyPack](https://github.com/amireh/happypack) and the [DLL capabilities](http://webpack.github.io/docs/list-of-plugins.html#dllplugin) within Webpack itself. Your rebuilds happen fast because, nobody enjoys waiting around like a  🐢  while assets recompile.
-- [React-Router 4](https://github.com/ReactTraining/react-router): configured with async data loading.
-- [React-Hot-Loader](https://github.com/gaearon/react-hot-loader): Build your React components with less full page reloads thanks to hot module replacement and React Hot Loader.
-- Code Splitting: Give your visitors the best experience possible by allowing their browsers to only download what's necessary.
-- [React-Universal-Component](https://github.com/faceyspacey/react-universal-component): The final answer to a React Universal Component: simultaneous SSR + Code Splitting.
-- [Webpack Flush Chunks](https://github.com/faceyspacey/webpack-flush-chunks): flushes an array of rendered moduleIds or chunkNames.
-- [Styled-Components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress.   
 
 ### Demo
 
